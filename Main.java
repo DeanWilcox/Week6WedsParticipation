@@ -1,3 +1,5 @@
+//Dean Wilcox Week 6 participation assignment
+
 public class Main 
 {
 

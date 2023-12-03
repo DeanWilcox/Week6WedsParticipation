@@ -1,3 +1,5 @@
+//Dean Wilcox Week 6 participation assignment
+
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JMenu;
